@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cinema_api.iml" filepath="$PROJECT_DIR$/.idea/cinema_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema_api.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema-app/cinema_api.cinema-app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema_api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema_api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cinema_api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cinema_api.test.iml" />
     </modules>
   </component>
 </project>
