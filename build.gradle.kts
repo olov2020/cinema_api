@@ -5,6 +5,8 @@ plugins {
 	id("io.spring.dependency-management") version "1.1.4"
 	kotlin("jvm") version "1.9.22"
 	kotlin("plugin.spring") version "1.9.22"
+	kotlin("plugin.lombok") version "1.9.22"
+	id("io.freefair.lombok") version "8.1.0"
 }
 
 group = "com.example"
