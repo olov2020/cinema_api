@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/cinema_api" />
+            <option value="$PROJECT_DIR$/cinema_api/cinema-api" />
+            <option value="$PROJECT_DIR$/cinema_api/cinema-client" />
           </set>
         </option>
       </GradleProjectSettings>
