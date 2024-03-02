@@ -1,4 +1,4 @@
-package com.example;
+package ru.hse.cinema.app;
 
 public class Main {
     public static void main(String[] args) {
