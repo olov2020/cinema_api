@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="cinema_api.cinema_api.main" target="17" />
-      <module name="cinema_api.cinema_api.main~1" target="17" />
-      <module name="cinema_api.cinema_api.test" target="17" />
-      <module name="cinema_api.cinema_api.test~1" target="17" />
+    <bytecodeTargetLevel target="17">
+      <module name="cinema-api" target="20" />
+      <module name="cinema_api.cinema-api" target="21" />
+      <module name="cinema_api.cinema-api.main" target="21" />
+      <module name="cinema_api.cinema-api.test" target="21" />
+      <module name="cinema_api.cinema-client" target="21" />
+      <module name="cinema_api.cinema-client.main" target="21" />
+      <module name="cinema_api.cinema-client.test" target="21" />
+      <module name="com.example.cinema_api.cinema-app" target="21" />
+      <module name="com.example.cinema_api.cinema-app.main" target="21" />
+      <module name="com.example.cinema_api.cinema-app.test" target="21" />
+      <module name="org.example.cinema_api.cinema-api" target="21" />
+      <module name="org.example.cinema_api.cinema-api.main" target="21" />
+      <module name="org.example.cinema_api.cinema-api.test" target="21" />
+      <module name="org.example.cinema_api.cinema-client" target="21" />
+      <module name="org.example.cinema_api.cinema-client.main" target="21" />
+      <module name="org.example.cinema_api.cinema-client.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
