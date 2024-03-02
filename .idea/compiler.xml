@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17">
       <module name="cinema-api" target="20" />
+      <module name="cinema_api.cinema-api" target="21" />
+      <module name="cinema_api.cinema-api.main" target="21" />
+      <module name="cinema_api.cinema-api.test" target="21" />
+      <module name="cinema_api.cinema-client" target="21" />
+      <module name="cinema_api.cinema-client.main" target="21" />
+      <module name="cinema_api.cinema-client.test" target="21" />
       <module name="cinema_api.cinema_api.main~1" target="17" />
       <module name="cinema_api.cinema_api.test~1" target="17" />
     </bytecodeTargetLevel>
